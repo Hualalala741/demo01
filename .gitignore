@@ -6,5 +6,6 @@ __pycache__/
 .DS_Store
 .env
 .streamlit/secrets.toml
-data/raw/
+data/raw/*
+!data/raw/yongchun_boundary.geojson
 data/interim/
