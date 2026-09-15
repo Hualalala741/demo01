@@ -1,0 +1,5 @@
+dataset,type,spatial_scope,time,output,source_url,mvp_use
+下洋镇农村土地承包经营权流转样本,HTML表格/爬取,下洋镇,2024,land_transfer_samples.csv,https://www.fjyc.gov.cn/ztzl/jczwgk/xzlybzxx/xyzly/202412/t20241224_3121358.htm,镇级土地成本；其他镇缺失时使用全部样本中位数回填
+桃城镇与介福乡农村土地流转样本,政府网页内嵌图片/人工转录,桃城镇、介福乡,2023、2025,land_transfer_samples.csv,https://www.fjyc.gov.cn/ztzl/jczwgk/xzlybzxx/tcz/202312/t20231229_2987527.htm | https://www.fjyc.gov.cn/ztzl/jczwgk/xzlybzxx/jfxly/202512/t20251223_3245095.htm,镇级土地成本；保留人工转录标记
+永春县粮油生产扶持措施,政府网页/规则抽取,永春县,2025,planting_subsidies.json,https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm,按作物和面积匹配政策，待接入评分
+永春县耕地地力保护补贴,政府网页/规则抽取,永春县,2026,planting_subsidies.json,https://www.fjyc.gov.cn/zwgk/zfxxgkzl/xzbm/nyncj/ml/202606/t20260626_3304156.htm,县级共同政策，正式申报资格需复核

@@ -1,0 +1,140 @@
+[
+  {
+    "policy_id": "YC-2025-GRAIN-30-100",
+    "name": "粮油规模种植补助",
+    "crop_scope": [
+      "水稻",
+      "甘薯",
+      "玉米"
+    ],
+    "minimum_area_mu": 30,
+    "maximum_area_mu": 100,
+    "subsidy_yuan_per_mu": 100,
+    "frequency": "每季",
+    "condition": "相对连片种植30亩以上、100亩以下",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2025-GRAIN-100",
+    "name": "粮油规模种植补助",
+    "crop_scope": [
+      "水稻",
+      "甘薯",
+      "玉米"
+    ],
+    "minimum_area_mu": 100,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 200,
+    "frequency": "每季",
+    "condition": "相对连片种植100亩以上",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2025-NEW-TRANSFER-100",
+    "name": "新增流转耕地种粮补助",
+    "crop_scope": [
+      "粮食作物"
+    ],
+    "minimum_area_mu": 100,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 100,
+    "frequency": "一次性",
+    "condition": "2025年1月1日以后新增流转耕地100亩以上用于种粮",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2025-UPLAND-20",
+    "name": "旱粮油料规模种植补助",
+    "crop_scope": [
+      "大豆",
+      "马铃薯",
+      "旱稻",
+      "花生"
+    ],
+    "minimum_area_mu": 20,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 200,
+    "frequency": "每季",
+    "condition": "相对连片种植20亩以上",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2025-ABANDONED-RICE-10",
+    "name": "撂荒耕地复垦种粮补助",
+    "crop_scope": [
+      "水稻"
+    ],
+    "minimum_area_mu": 10,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 500,
+    "frequency": "按政策申报",
+    "condition": "复垦相对集中连片撂荒耕地10亩以上种植水稻",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2025-ABANDONED-DRY-10",
+    "name": "撂荒耕地复垦种粮补助",
+    "crop_scope": [
+      "甘薯",
+      "玉米",
+      "大豆",
+      "马铃薯",
+      "旱稻",
+      "花生"
+    ],
+    "minimum_area_mu": 10,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 300,
+    "frequency": "按政策申报",
+    "condition": "复垦相对集中连片撂荒耕地10亩以上种植旱粮",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2025-ABANDONED-50-EXTRA",
+    "name": "撂荒耕地连片复垦叠加补助",
+    "crop_scope": [
+      "粮食作物"
+    ],
+    "minimum_area_mu": 50,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 100,
+    "frequency": "叠加补助",
+    "condition": "连片复垦撂荒山垅田50亩以上；与基础补助如何叠加以审核为准",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/jdhy/bdzcjd/202504/t20250427_3164162.htm",
+    "published_year": 2025
+  },
+  {
+    "policy_id": "YC-2026-FERTILITY",
+    "name": "耕地地力保护补贴",
+    "crop_scope": [
+      "符合补贴条件的耕地"
+    ],
+    "minimum_area_mu": 0,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 94.01,
+    "frequency": "年度",
+    "condition": "原则上补给耕地承包权人；流转双方有书面约定的从其约定，并以审核为准",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/xzbm/nyncj/ml/202606/t20260626_3304156.htm",
+    "published_year": 2026
+  },
+  {
+    "policy_id": "YC-2026-SCALE-GRAIN-30",
+    "name": "规模种粮主体叠加补贴",
+    "crop_scope": [
+      "粮食作物"
+    ],
+    "minimum_area_mu": 30,
+    "maximum_area_mu": null,
+    "subsidy_yuan_per_mu": 100,
+    "frequency": "当年补上年",
+    "condition": "30亩以上规模种粮主体；与其他政策的重复享受规则须复核",
+    "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/xzbm/nyncj/ml/202606/t20260626_3304156.htm",
+    "published_year": 2026
+  }
+]

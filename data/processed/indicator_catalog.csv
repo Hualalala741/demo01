@@ -1,0 +1,18 @@
+indicator_name,category,source,spatial_resolution,time_resolution,update_frequency,collection_method,output_field,status,limitation
+距主要道路距离,成本,OpenStreetMap福建PBF,道路矢量,当前快照,按需更新,PBF下载+GeoPandas空间距离,major_road_km,已接入,道路完整度依赖OSM志愿数据
+距高速出入口距离,成本,OpenStreetMap福建PBF,高速连接点,当前快照,按需更新,PBF下载+GeoPandas空间距离,highway_exit_km,已接入,连接点可能包含匝道节点且存在重复
+距乡镇或居民点距离,成本,OpenStreetMap福建PBF,居民点点位,当前快照,按需更新,PBF下载+GeoPandas空间距离,settlement_km,已接入,部分村镇点位可能缺失
+土地流转租金,成本,永春县人民政府三镇公开表,镇/村级交易记录,2023-2025,年度或按公开频率,HTML表格爬取+内嵌图片转录+镇县分级回填,land_rent_yuan_per_mu_year,已接入,24条样本仅覆盖下洋桃城介福且乡镇归属由最近镇中心代理
+最低工资,成本,福建省人力资源和社会保障厅,县级,2025,政策调整时,政府公告结构化,minimum_wage_yuan_month,已接入,县内所有地块相同不改变县内排序
+非居民水价,成本,永春县发展和改革局,县级,2025,五年有效期内按调整更新,政府公告结构化,nonresidential_water_yuan_ton,已接入,城镇供水价不等于农田灌溉水价且县内统一
+农业生产电价,成本,福建省电网目录销售电价,省级,现行目录口径,政策调整时,政府价格表结构化,agricultural_electricity_yuan_kwh,已接入,实际电压与排灌资格会改变价格且县内统一
+周边人口,市场/收益,WorldPop Total Population 100m,约100米栅格,2020,随数据源更新,ArcGIS ImageServer裁剪+5km缓冲区汇总,population_5km,已接入,年份较旧且为模型估算人口
+距农产品市场距离,市场/收益,OpenStreetMap福建PBF,POI点位,当前快照,按需更新,PBF下载+名称关键词提取,market_km,代理已接入,县内仅提取到1条POI不代表完整市场名录
+距物流冷链节点距离,市场/收益,OpenStreetMap福建PBF,POI点位,当前快照,按需更新,PBF下载+名称关键词提取,logistics_km,字段已接入,县内未提取到POI因此当前按中性分处理
+周边农业企业合作社数量,市场/收益,OpenStreetMap福建PBF,POI点位,当前快照,按需更新,PBF下载+名称关键词提取,agri_poi_10km,代理已接入,县内仅提取到1条POI需政府或工商名录补充
+距河流距离,风险,OpenStreetMap福建PBF,河流线矢量,当前快照,按需更新,PBF下载+GeoPandas空间距离,river_km,已接入,仅为洪水暴露代理不能替代洪水风险图
+极端天气背景,风险,NASA POWER与永春县政府灾害报告,县级粗网格/县级事件,2021-2025,年度,API逐日阈值统计+政府报告结构化,climate_risk_score,已接入,NASA网格较粗且当前县级分不改变地块相对排序
+地质灾害隐患,风险,永春县人民政府公开项目与预警表,乡镇/村级名单,2025,按公告更新,政府网页与PDF检索,,已找到未打分,缺少稳定坐标或完整风险区边界
+粮油及复垦种植补贴,政策,永春县人民政府政策解读,县级规则,2025且有效期至2027-12-31,按政策更新,政府网页爬取+按作物面积匹配,policy_level,已接入,资格和叠加规则须主管部门审核
+耕地地力保护及规模种粮补贴,政策,永春县农业农村局与财政局公开通知,县级规则,2026,年度,政府网页爬取+按作物面积匹配,policy_level,已接入,地力补贴原则上归承包权人而非当然归流入方
+十四五十五五政策连续性,政策,永春县两期规划原文,县级产业,2021-2030,五年/规划调整时,人工结构化对比,policy_continuity,已接入,未调用外部LLM且需人工复核产业同义词

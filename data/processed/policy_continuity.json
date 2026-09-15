@@ -1,0 +1,92 @@
+[
+  {
+    "crop": "水稻",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "连续支持",
+    "evidence": "十四五保障粮食生产；十五五继续保障粮食安全和高标准良田",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "玉米",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "连续支持",
+    "evidence": "归入粮食生产；十五五继续推进主要农作物单产提升",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "大豆",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "连续支持",
+    "evidence": "归入粮油生产；十五五继续保障粮食安全",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "甘薯",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "连续支持",
+    "evidence": "归入粮食生产；十五五继续保障粮食安全",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "马铃薯",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "连续支持",
+    "evidence": "十四五特色农业包含粮油作物；十五五继续保障粮食安全",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "花生",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "连续支持",
+    "evidence": "归入油料生产；十五五继续保障粮食和重要农产品供给",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "茶",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "强化支持",
+    "evidence": "十四五建设生态茶园；十五五提出十万亩标准生态茶园和茶叶倍增",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "柑橘",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "强化支持",
+    "evidence": "十四五推进芦柑标准园；十五五继续柑橘倍增和四季柑橘",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  },
+  {
+    "crop": "竹类",
+    "fourteenth_support": true,
+    "fifteenth_support": true,
+    "trend": "强化支持",
+    "evidence": "十四五发展竹产业；十五五实施竹林双倍增和全竹利用产业园",
+    "fourteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202206/P020220630427719172098.pdf",
+    "fifteenth_plan_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+    "analysis_method": "依据两期规划原文人工结构化；未调用外部LLM"
+  }
+]
