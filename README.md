@@ -2,6 +2,10 @@
 
 这是一个以可交互地图为核心的本地 Demo。用户选择作物、输入所需面积并调整偏好权重后，系统对候选土地执行硬筛选和软排序。
 
+页面默认使用卫星影像底图并叠加永春县行政边界；推荐结果位于页面中间，地图位于右侧。点击整张推荐卡片，地图会缩放并高亮对应地块；也可切换回道路地图或“查看全县”。卫星底图来自 Esri World Imagery 在线瓦片服务，使用时需要网络连接。该服务由不同来源、日期和分辨率的影像拼接而成；当前县城代表点元数据为 2023-12-02、0.5 米、Vivid（Vantor / WV02），不能据此推定全县影像均为同一天。
+
+侧边栏可在“疑似撂荒耕地”和“稳定裸地/草灌地（潜在资源）”之间切换。后者要求2017、2022、2023三年都属于裸地（8）或Rangeland（11），排除Trees（2），并仅保留20—500亩的连续斑块，避免把细碎噪声和超大连续山体直接当作经营地块。该类型尚未接入坡度、法定地类、权属和规划，只能解释为待核验的遥感资源线索。
+
 ## 本地启动
 
 ```bash
@@ -52,6 +56,18 @@ python scripts/build_candidates.py \
 ```
 
 默认使用 Impact Observatory/Esri 年度土地覆盖 V2：耕地分类码为 `5`，低利用代理类别为裸地 `8` 和 rangeland `11`。默认规则是2017年为耕地，且2022、2023年连续变为代理类别。自然保护区文件暂时可选；未传入时结果会标记为尚未完成保护区筛查。
+
+稳定裸地/草灌地潜在资源可由同一组年度分类图生成：
+
+```bash
+python scripts/build_natural_resources.py \
+  --annual data/interim/lulc/io_lulc_2017_yongchun.tif \
+           data/interim/lulc/io_lulc_2022_yongchun.tif \
+           data/interim/lulc/io_lulc_2023_yongchun.tif \
+  --minimum-patch-mu 20 \
+  --maximum-patch-mu 500 \
+  --output data/processed/natural_resources_mvp.gpkg
+```
 
 ## 第一版空间指标
 

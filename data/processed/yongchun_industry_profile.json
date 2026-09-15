@@ -1,0 +1,488 @@
+{
+  "industries": [
+    {
+      "county": "永春县",
+      "industry": "香产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "擦亮“中国香都”名片。",
+      "development_directions": [
+        "原辅材料基地",
+        "高端香氛、熏香",
+        "数字化生产"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "奇楠沉香一二三融合发展项目",
+        "香都芳香产业园项目",
+        "香料交易市场项目",
+        "香品一条街项目",
+        "达埔商会芳香创业园项目",
+        "国家香检中心香料香氛研究中心项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-012",
+          "quote": "香 | 擦亮“中国香都”名片。 | ①原辅材料基地； ②高端香氛、熏香； ③数字化生产。 | 奇楠沉香一二三融合发展项目、香都芳香产业园项目、香料交易市场项目、香品一条街项目、达埔商会芳香创业园项目、国家香检中心香料香氛研究中心项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "瓷产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "以差异化发展为主线，培育陶瓷产业新增长点。",
+      "development_directions": [
+        "日用陶瓷",
+        "洁具陶瓷",
+        "特种陶瓷"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "苏坑陶瓷工业区扩容项目",
+        "介福陶瓷工业园区（二期）项目",
+        "日用陶瓷设计及选品中心项目",
+        "良塑陶瓷智能仓项目",
+        "良瓷科技卫生陶瓷中试平台项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-012",
+          "quote": "瓷 | 以差异化发展为主线，培育陶瓷产业新增长点。 | ①日用陶瓷； ②洁具陶瓷； ③特种陶瓷。 | 苏坑陶瓷工业区扩容项目、介福陶瓷工业园区（二期）项目、日用陶瓷设计及选品中心项目、良塑陶瓷智能仓项目、良瓷科技卫生陶瓷中试平台项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "醋产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "实施倍增计划，稳固“永春醋”品牌。",
+      "development_directions": [
+        "扩大老醋产能和市场占有率",
+        "醋衍生品开发"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "老醋科技融合产业园项目",
+        "得壹醋业技改项目",
+        "岵山醋香小镇项目",
+        "侨新醋厂二期项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-012",
+          "quote": "醋 | 实施倍增计划，稳固“永春醋”品牌。 | ①扩大老醋产能和市场占有率； ②醋衍生品开发。 | 老醋科技融合产业园项目、得壹醋业技改项目、岵山醋香小镇项目、侨新醋厂二期项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "轻工纺织产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "实现绿色转型，推动智改数转。",
+      "development_directions": [
+        "新型环保面料研发生产",
+        "智能化、数字化改造"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "固力狮实业三期项目",
+        "迈特富二期项目",
+        "骏源纺织二期项目",
+        "万家美全成型电脑横机成衣生产线项目",
+        "德恒服饰织造厂增资扩产项目",
+        "君合羊毛针织技改项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-012",
+          "quote": "轻工纺织 | 实现绿色转型，推动智改数转。 | ①新型环保面料研发生产； ②智能化、数字化改造。 | 固力狮实业三期项目、迈特富二期项目、骏源纺织二期项目、万家美全成型电脑横机成衣生产线项目、德恒服饰织造厂增资扩产项目、君合羊毛针织技改项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "食品饮料产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "发挥本土优势，特色发展。",
+      "development_directions": [
+        "开发生产本土特色食品饮料",
+        "推动本土养生预制菜发展"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "锦源智控联创饮品灌装基地项目",
+        "奥克力矿泉水项目",
+        "金草生物改扩建项目",
+        "艾草深加工系列产品开发项目",
+        "永食荟美食文化城项目",
+        "春江源食品三期项目",
+        "凯鑫食品智能生产线项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-012",
+          "quote": "食品饮料 | 发挥本土优势，特色发展。 | ①开发生产本土特色食品饮料； ②推动本土养生预制菜发展。 | 锦源智控联创饮品灌装基地项目、奥克力矿泉水项目、金草生物改扩建项目、艾草深加工系列产品开发项目、永食荟美食文化城项目、春江源食品三期项目、凯鑫食品智能生产线项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "电子信息产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "打造具有区域竞争力的电子信息产业基地。",
+      "development_directions": [
+        "电子零配件生产",
+        "智能穿戴",
+        "高端显示屏",
+        "智能装备及新一代机器人"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "大湾区电子信息产业集群项目",
+        "嘉会通电子科技项目",
+        "威柏特科技项目",
+        "滂渤精密科技项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-012",
+          "quote": "电子信息 | 打造具有区域竞争力的电子信息产业基地。 | ①电子零配件生产； ②智能穿戴； ③高端显示屏； ④智能装备及新一代机器人。 | 大湾区电子信息产业集群项目、嘉会通电子科技项目、威柏特科技项目、滂渤精密科技项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "新材料产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "打造区域新材料产业战略高地，力争到2030年实现新材料产业集群产值突破100亿元。",
+      "development_directions": [
+        "高性能竹纤维",
+        "生物可降解膜材",
+        "环保包装材料"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "竹纤维全生物降解材料全产业链项目",
+        "冠中科技生物基全降解项目",
+        "华膜环保新材料项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-017",
+          "quote": "新材料 | 打造区域新材料产业战略高地，力争到2030年实现新材料产业集群产值突破100亿元。 | ①高性能竹纤维； ②生物可降解膜材； ③环保包装材料。 | 竹纤维全生物降解材料全产业链项目、冠中科技生物基全降解项目、华膜环保新材料项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "低空经济产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "积极探索县域低空经济发展新路径、新模式。",
+      "development_directions": [
+        "应用场景开发",
+        "无人机生产基地",
+        "航空培训基地"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "中电建航空港低空经济全产业链项目",
+        "达埔义建航空飞行营地项目",
+        "低空经济融合发展基地项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-017",
+          "quote": "低空经济 | 积极探索县域低空经济发展新路径、新模式。 | ①应用场景开发； ②无人机生产基地； ③航空培训基地。 | 中电建航空港低空经济全产业链项目、达埔义建航空飞行营地项目、低空经济融合发展基地项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "新型储能产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "高起点谋划、高标准推进绿色能源发展。",
+      "development_directions": [
+        "压缩空气储能电站",
+        "抽水蓄能",
+        "独立储能"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "天湖山压缩空气储能电站项目",
+        "坑仔口抽水蓄能电站项目",
+        "蓬壶独立储能电站项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-017",
+          "quote": "新型储能 | 高起点谋划、高标准推进绿色能源发展。 | ①压缩空气储能电站； ②抽水蓄能； ③独立储能。 | 天湖山压缩空气储能电站项目、坑仔口抽水蓄能电站项目、蓬壶独立储能电站项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "现代农业产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。",
+      "development_directions": [
+        "保障粮食安全",
+        "做强特色农业集群",
+        "延伸农副产品加工链条"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "镇镇千亩良田项目",
+        "柑桔 全产业链发展项目",
+        "乌龙茶产业集群核心区建设项目",
+        "食用菌产业发展项目",
+        "特色林业高质量发展项目",
+        "外山蜜蜂小镇项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "现代农业 | 推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。 | ①保障粮食安全； ②做强特色农业集群； ③延伸农副产品加工链条。 | 镇镇千亩良田项目、 柑桔 全产业链发展项目、乌龙茶产业集群核心区建设项目、食用菌产业发展项目、特色林业高质量发展项目、外山蜜蜂小镇项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "芦柑产业",
+      "parent_industry": "现代农业产业",
+      "industry_aliases": [],
+      "development_goal": "推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。",
+      "development_directions": [
+        "保障粮食安全",
+        "做强特色农业集群",
+        "延伸农副产品加工链条"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "柑桔 全产业链发展项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "现代农业 | 推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。 | ①保障粮食安全； ②做强特色农业集群； ③延伸农副产品加工链条。 | 镇镇千亩良田项目、 柑桔 全产业链发展项目、乌龙茶产业集群核心区建设项目、食用菌产业发展项目、特色林业高质量发展项目、外山蜜蜂小镇项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "茶产业",
+      "parent_industry": "现代农业产业",
+      "industry_aliases": [],
+      "development_goal": "推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。",
+      "development_directions": [
+        "保障粮食安全",
+        "做强特色农业集群",
+        "延伸农副产品加工链条"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "乌龙茶产业集群核心区建设项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "现代农业 | 推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。 | ①保障粮食安全； ②做强特色农业集群； ③延伸农副产品加工链条。 | 镇镇千亩良田项目、 柑桔 全产业链发展项目、乌龙茶产业集群核心区建设项目、食用菌产业发展项目、特色林业高质量发展项目、外山蜜蜂小镇项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "花产业",
+      "parent_industry": "现代农业产业",
+      "industry_aliases": [],
+      "development_goal": "推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。",
+      "development_directions": [
+        "保障粮食安全",
+        "做强特色农业集群",
+        "延伸农副产品加工链条"
+      ],
+      "planned_actions": [],
+      "planned_projects": [],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "现代农业 | 推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。 | ①保障粮食安全； ②做强特色农业集群； ③延伸农副产品加工链条。 | 镇镇千亩良田项目、 柑桔 全产业链发展项目、乌龙茶产业集群核心区建设项目、食用菌产业发展项目、特色林业高质量发展项目、外山蜜蜂小镇项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "竹产业",
+      "parent_industry": "现代农业产业",
+      "industry_aliases": [],
+      "development_goal": "推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。",
+      "development_directions": [
+        "保障粮食安全",
+        "做强特色农业集群",
+        "延伸农副产品加工链条"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "特色林业高质量发展项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "现代农业 | 推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。 | ①保障粮食安全； ②做强特色农业集群； ③延伸农副产品加工链条。 | 镇镇千亩良田项目、 柑桔 全产业链发展项目、乌龙茶产业集群核心区建设项目、食用菌产业发展项目、特色林业高质量发展项目、外山蜜蜂小镇项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "蜂蜜产业",
+      "parent_industry": "现代农业产业",
+      "industry_aliases": [],
+      "development_goal": "推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。",
+      "development_directions": [
+        "保障粮食安全",
+        "做强特色农业集群",
+        "延伸农副产品加工链条"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "外山蜜蜂小镇项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "现代农业 | 推进优势特色农业发展，做强芦柑、茶、花、竹、蜂蜜五大潜力名片，做优生态智慧农业，塑造永春现代农业新优势。 | ①保障粮食安全； ②做强特色农业集群； ③延伸农副产品加工链条。 | 镇镇千亩良田项目、 柑桔 全产业链发展项目、乌龙茶产业集群核心区建设项目、食用菌产业发展项目、特色林业高质量发展项目、外山蜜蜂小镇项目。"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "文旅康养产业",
+      "parent_industry": null,
+      "industry_aliases": [
+        "文旅康养"
+      ],
+      "development_goal": "围绕“功夫永春”品牌，统筹推进核心景区建设、旅游资源整合，加快培育文旅融合发展新业态，打造县域核心旅游目的地。",
+      "development_directions": [
+        "打造县域核心旅游目的地",
+        "②“文旅+”跨界融合发展"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "“海丝原点”古街文旅项目",
+        "桃溪田园风光建设项目",
+        "功夫仙鹤文旅小镇项目",
+        "“十里桃源长廊”项目",
+        "魁星岩大景区建设项目",
+        "安腾十里桃源项目",
+        "蓬壶温泉商住开发项目",
+        "石鼓温泉小镇项目",
+        "森林康养之都项目",
+        "唐允瓷茶文旅度假山庄项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+      "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+      "plan_period": "2026-2030",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "文旅康养 | 围绕“功夫永春”品牌，统筹推进核心景区建设、旅游资源整合，加快培育文旅融合发展新业态，打造县域核心旅游目的地。 | ①打造县域核心旅游目的地； ②“文旅+”跨界融合发展。 | “海丝原点”古街文旅项目、桃溪田园风光建设项目、功夫仙鹤文旅小镇项目、“十里桃源长廊”项目、魁星岩大景区建设项目、安腾十里桃源项目、蓬壶温泉商住开发项目、石鼓温泉小镇项目、森林康养之都项目、唐允瓷茶文旅度假山庄项目。"
+        }
+      ]
+    }
+  ],
+  "county": "永春县",
+  "source_document": "永春县人民政府关于印发永春县国民经济和社会发展第十五个五年规划纲要的通知",
+  "source_url": "https://www.fjyc.gov.cn/zwgk/zfxxgkzl/ml/ghjh/202608/t20260803_3315323.htm",
+  "retrieved_chunk_count": 12,
+  "selected_chunk_ids": [
+    "chunk-012",
+    "chunk-017",
+    "chunk-015"
+  ]
+}

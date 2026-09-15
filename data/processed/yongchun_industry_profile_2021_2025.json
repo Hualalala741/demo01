@@ -1,0 +1,436 @@
+{
+  "industries": [
+    {
+      "county": "永春县",
+      "industry": "现代农业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "注重农业特色优势，培育接二连三农业大产业",
+      "development_directions": [
+        "培育现代农业龙头企业",
+        "提升产业基地建设水平",
+        "推进三产融合发展",
+        "创建全国农产品质量安全县"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "永春芦柑特色优势区建设",
+        "两岸农业融合发展水果产业园",
+        "蛋鸡标准化生态养殖",
+        "蛋品与鸡肉加工及鲜活农产品冷链服务",
+        "高标准农田建设",
+        "菜果茶有机肥替代化肥试点",
+        "永春佛手茶特色优势区建设",
+        "岵山荔枝特色优势区建设",
+        "食用菌栽培及生产",
+        "绣球花卉科技",
+        "花卉苗木交易市场项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-026",
+          "quote": "现代农业 | 注重农业特色优势，培育接二连三农业大产业 | ①培育现代农业龙头企业②提升产业基地建设水平③推进三产融合发展④创建全国农产品质量安全县 | 永春芦柑特色优势区建设、两岸农业融合发展水果产业园、蛋鸡标准化生态养殖、蛋品与鸡肉加工及鲜活农产品冷链服务、高标准农田建设、菜果茶有机肥替代化肥试点、永春佛手茶特色优势区建设、岵山荔枝特色优势区建设、食用菌栽培及生产、绣球花卉科技、花卉苗木交易市场项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "新材料产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "建设新型材料产业基地，力争到2025年实现产值50亿元",
+      "development_directions": [],
+      "planned_actions": [],
+      "planned_projects": [
+        "美岭水泥系统改造扩建",
+        "美岭矿业（二期）建设",
+        "美宏科技油墨生产",
+        "智能光学产品生产",
+        "西斯特新材料生产",
+        "富圆锌业",
+        "福建冠中科技年产9万吨生物基全降解及可降解复合材料及制品",
+        "双恒铝材项目",
+        "福建集成伞业有限公司项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-019",
+          "quote": "新材料 | 建设新型材料产业基地，力争到2025年实现产值50亿元 | 化合物半导体、新型瓷器材料、生物医用材料、新型环保材料等新型材料。 | 美岭水泥系统改造扩建、美岭矿业（二期）建设、美宏科技油墨生产、智能光学产品生产、西斯特新材料生产、富圆锌业、福建冠中科技年产9万吨生物基全降解及可降解复合材料及制品、双恒铝材项目、福建集成伞业有限公司项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "生物医药产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "打造海西重要生物医药产业基地，力争到2025年实现产值55亿元。",
+      "development_directions": [
+        "药用植物开发、生物中药；",
+        "医疗器械；",
+        "药械产品生产；",
+        "生物保健。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "鑫舟生物信息科技",
+        "雷恩生化四期",
+        "永春瑞迈舒医疗科技二期",
+        "医用耗材和器械",
+        "福建日昌盛生物科技",
+        "克里贝尔",
+        "修正药业",
+        "博达生物等企业项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-019",
+          "quote": "生物医药 | 打造海西重要生物医药产业基地，力争到2025年实现产值55亿元。 | ①药用植物开发、生物中药；②医疗器械；③药械产品生产；④生物保健。 | 鑫舟生物信息科技、雷恩生化四期、永春瑞迈舒医疗科技二期、医用耗材和器械、福建日昌盛生物科技，克里贝尔、修正药业、博达生物等企业项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "5G智慧制造（数字经济）产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "加快工业自动化通用技术、信息物理融合等智慧平台建设，全面布局5G产业生态链",
+      "development_directions": [
+        "智慧研发生产；",
+        "云上操控；",
+        "智慧生产管理；",
+        "新零售。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "九牧永春智慧制造产业园",
+        "集英创新产业园",
+        "永春智能家居",
+        "永春启一信息科技",
+        "沪航集团",
+        "耀胜玻璃二期"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-019",
+          "quote": "5G智慧制造（数字经济） | 加快工业自动化通用技术、信息物理融合等智慧平台建设，全面布局5G产业生态链 | ①智慧研发生产；②云上操控；③智慧生产管理；④新零售。 | 九牧永春智慧制造产业园、集英创新产业园、永春智能家居、永春启一信息科技、沪航集团、耀胜玻璃二期"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "健康养生产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "建设福建省重要文化与生态休闲养生基地和国内著名的文化体验型康体养老目的地，打响“有一种生活叫永春”品牌",
+      "development_directions": [
+        "休闲养生业；",
+        "康体养生业；",
+        "养老养生业。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "大牛姆林欢乐康养旅游度假区",
+        "天沐温泉疗养度假区",
+        "晋江东溪源头雪山运动康体避暑度假区",
+        "特色美食街区",
+        "外山大风车旅游小镇",
+        "永春白鹤拳特色小镇",
+        "云台国学研学基地",
+        "丝路香药康旅城",
+        "凤美温泉综合开发"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-022",
+          "quote": "健康养生产业 | 建设福建省重要文化与生态休闲养生基地和国内著名的文化体验型康体养老目的地，打响“有一种生活叫永春”品牌 | ①休闲养生业；②康体养生业；③养老养生业。 | 大牛姆林欢乐康养旅游度假区、天沐温泉疗养度假区、晋江东溪源头雪山运动康体避暑度假区、特色美食街区、外山大风车旅游小镇、永春白鹤拳特色小镇、云台国学研学基地、丝路香药康旅城、凤美温泉综合开发"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "商贸物流产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "构建永春特色的产品商贸物流体系和特色产品物流集散中心",
+      "development_directions": [
+        "特色商贸载体；",
+        "农村电商产业；",
+        "现代物流。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "温泉小区农贸市场",
+        "城东农贸市场",
+        "三桃农贸市场",
+        "农产品批发市场",
+        "五里街（西安）农贸市场改造",
+        "聚富冷链物流配送中心建设",
+        "冷链物流与畜禽定点屠宰项目",
+        "鲜活农产品冷链物流服务",
+        "供销社冷链仓库建设",
+        "五里街镇仓储配套设施项目石鼓镇物流园",
+        "特色商业街区",
+        "永春电子商务产业园"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-022",
+          "quote": "商贸物流产业 | 构建永春特色的产品商贸物流体系和特色产品物流集散中心 | ①特色商贸载体；②农村电商产业；③现代物流。 | 温泉小区农贸市场、城东农贸市场、三桃农贸市场、农产品批发市场、五里街（西安）农贸市场改造，聚富冷链物流配送中心建设、冷链物流与畜禽定点屠宰项目、鲜活农产品冷链物流服务、供销社冷链仓库建设、五里街镇仓储配套设施项目石鼓镇物流园，特色商业街区、永春电子商务产业园"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "轻纺鞋服产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "打造“永春环保鞋服”特色产业品牌和闽南时尚婴童鞋服生产基地，力争到2025年产值突破600亿元。",
+      "development_directions": [
+        "高支棉面料、快干面料、医疗抗菌面料等环保面料；",
+        "新型特种纤维纺织材料、功能性纺织材料；",
+        "时尚婴童鞋服和绿色家纺服饰。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "美律科技二期",
+        "永春万鼎工贸项目",
+        "迈特富纺织科技有限公司技改项目",
+        "固力狮实业",
+        "骏源纺织",
+        "福岑纺织",
+        "晋昇中润",
+        "万家美",
+        "南德针织",
+        "锦林环保等企业项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-017",
+          "quote": "轻纺鞋服 | 打造“永春环保鞋服”特色产业品牌和闽南时尚婴童鞋服生产基地，力争到2025年产值突破600亿元。 | ①高支棉面料、快干面料、医疗抗菌面料等环保面料；②新型特种纤维纺织材料、功能性纺织材料；③时尚婴童鞋服和绿色家纺服饰。 | 美律科技二期、永春万鼎工贸项目、迈特富纺织科技有限公司技改项目，固力狮实业、骏源纺织、福岑纺织、晋昇中润、万家美、南德针织、锦林环保等企业项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "机械制造产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "实现机械制造自动化、智能化改造，力争到2025年实现产值120亿元。",
+      "development_directions": [
+        "工程机械配件；",
+        "汽车配件；",
+        "电子产品。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "永春孚诺泰环保设备生产项目",
+        "中翔机电设备制造项目",
+        "坤腾精密配件工业项目",
+        "源福机械",
+        "禾力机械",
+        "安永机械",
+        "永盛铸造",
+        "恒钛铸造等企业项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-017",
+          "quote": "机械制造 | 实现机械制造自动化、智能化改造，力争到2025年实现产值120亿元。 | ①工程机械配件；②汽车配件；③电子产品。 | 永春孚诺泰环保设备生产项目、中翔机电设备制造项目、坤腾精密配件工业项目，源福机械、禾力机械、安永机械、永盛铸造、恒钛铸造等企业项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "食品饮料产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "将食品饮料制造业提升至滋补养生产业，实现产值超60亿元。",
+      "development_directions": [
+        "建设健康养生品体系；",
+        "功能性保健食品；",
+        "闽南保健休闲食品基地；",
+        "打造具有闽南风格的海西知名滋补养生名片。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "奥克力食品",
+        "金雷食品茶油柿饼",
+        "矿泉水及饮料",
+        "米粉加工",
+        "芋头食品加工",
+        "菲律宾Jnk食品集团QQ糖",
+        "春江源食品",
+        "永旺食品",
+        "添顺食品等企业项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-017",
+          "quote": "食品饮料 | 将食品饮料制造业提升至滋补养生产业，实现产值超60亿元。 | ①建设健康养生品体系；②功能性保健食品；③闽南保健休闲食品基地；④打造具有闽南风格的海西知名滋补养生名片。 | 奥克力食品、金雷食品茶油柿饼、矿泉水及饮料、米粉加工、芋头食品加工、菲律宾Jnk食品集团QQ糖，春江源食品、永旺食品、添顺食品等企业项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "香产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "进一步打响“中国香都”品牌，力争到2025年实现香产业集群产值突破150亿元",
+      "development_directions": [
+        "家居香；",
+        "创意香；",
+        "香衍生品；"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "香品产业园项目（三期）",
+        "永信香业",
+        "福永达香业",
+        "恒顺永芳香业",
+        "永春庞博香业",
+        "香企业进园区工程",
+        "中国香都原辅料国际交易市场"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "香 | 进一步打响“中国香都”品牌，力争到2025年实现香产业集群产值突破150亿元 | ①家居香；②创意香；③香衍生品； | 香品产业园项目（三期），永信香业、福永达香业、恒顺永芳香业、永春庞博香业，香企业进园区工程、中国香都原辅料国际交易市场"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "醋产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "提高永春老醋市场覆盖率，力争到2025年醋等发酵产业集群产值突破100亿元",
+      "development_directions": [
+        "食用醋；",
+        "风味醋、保健醋、果醋饮料等特色功能性产品。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "福建省调味品产品质量检验中心",
+        "永春老醋科技产业园",
+        "永春侨新老醋工艺研发和旅游文创基地",
+        "永春老醋",
+        "金春酿造等公司项目"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "醋 | 提高永春老醋市场覆盖率，力争到2025年醋等发酵产业集群产值突破100亿元 | ①食用醋；②风味醋、保健醋、果醋饮料等特色功能性产品。 | 福建省调味品产品质量检验中心、永春老醋科技产业园、永春侨新老醋工艺研发和旅游文创基地、永春老醋、金春酿造等公司项目"
+        }
+      ]
+    },
+    {
+      "county": "永春县",
+      "industry": "瓷产业",
+      "parent_industry": null,
+      "industry_aliases": [],
+      "development_goal": "打造建设陶瓷文化创意基地，力争到2025年形成超100亿的陶瓷智慧制造产业生态链",
+      "development_directions": [
+        "日用陶瓷；",
+        "工艺陶瓷、卫生洁具；",
+        "陶瓷纤维、特种陶瓷、功能性陶瓷。"
+      ],
+      "planned_actions": [],
+      "planned_projects": [
+        "介福乡陶瓷工业区项目（二期、三期）",
+        "苏坑镇陶瓷产业园区（三期）",
+        "爵能科技厨卫",
+        "佳联半导体配套瓷板",
+        "苏坑陶瓷产业技改",
+        "中顺科技发展项目",
+        "元景陶瓷",
+        "鑫元景陶瓷",
+        "福津陶瓷",
+        "昌林陶瓷技改",
+        "唐允瓷业",
+        "聚艺陶瓷",
+        "嘉恒陶瓷",
+        "紫隆瓷业",
+        "加基瓷土精加工"
+      ],
+      "mentioned_in_plan": true,
+      "specific_policy_found": null,
+      "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+      "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+      "plan_period": "2021-2025",
+      "evidence": [
+        {
+          "chunk_id": "chunk-015",
+          "quote": "瓷 | 打造建设陶瓷文化创意基地，力争到2025年形成超100亿的陶瓷智慧制造产业生态链 | ①日用陶瓷；②工艺陶瓷、卫生洁具；③陶瓷纤维、特种陶瓷、功能性陶瓷。 | 介福乡陶瓷工业区项目（二期、三期）、苏坑镇陶瓷产业园区（三期）、爵能科技厨卫、佳联半导体配套瓷板、苏坑陶瓷产业技改、中顺科技发展项目、元景陶瓷、鑫元景陶瓷、福津陶瓷、昌林陶瓷技改、唐允瓷业、聚艺陶瓷、嘉恒陶瓷、紫隆瓷业、加基瓷土精加工"
+        }
+      ]
+    }
+  ],
+  "county": "永春县",
+  "source_document": "永春县国民经济和社会发展第十四个五年规划和二○三五年远景目标纲要",
+  "source_url": "data/interim/policy_plans/yongchun_14th_five_year_plan.docx",
+  "plan_period": "2021-2025",
+  "retrieved_chunk_count": 15,
+  "selected_chunk_ids": [
+    "chunk-026",
+    "chunk-019",
+    "chunk-022",
+    "chunk-017",
+    "chunk-015"
+  ]
+}

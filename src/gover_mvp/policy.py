@@ -71,3 +71,26 @@ def apply_policy_scores(
     for key in assessments[0] if assessments else []:
         result[key] = [assessment[key] for assessment in assessments]
     return result
+
+
+def apply_natural_resource_policy_scores(
+    candidates: gpd.GeoDataFrame,
+    crop: str,
+    continuity: dict[str, dict],
+) -> gpd.GeoDataFrame:
+    """自然资源斑块未核定为耕地，只评价产业方向，不匹配耕地补贴。"""
+    result = candidates.copy()
+    trend = continuity.get(crop, {})
+    current_support = bool(trend.get("fifteenth_support", False))
+    previous_support = bool(trend.get("fourteenth_support", False))
+    level = 2 if current_support else 0
+    if previous_support and not current_support:
+        level = 0
+    result["policy_level"] = level
+    result["policy_score"] = round(level / 3 * 100, 1)
+    result["policy_reason"] = (
+        "仅表示产业方向支持；该斑块尚未核定为耕地，不匹配撂荒复垦或耕地类补贴。"
+    )
+    result["policy_continuity"] = trend.get("trend", "未识别")
+    result["eligible_policy_count"] = 0
+    return result
